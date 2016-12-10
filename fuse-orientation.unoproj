@@ -1,0 +1,12 @@
+{
+  "Packages": [
+    "Fuse.Scripting",
+    "Fuse.Designer",
+    "FuseCore",
+    "Uno.Collections",
+    "UnoCore"
+  ],
+  "Includes": [
+    "*"
+  ]
+}
