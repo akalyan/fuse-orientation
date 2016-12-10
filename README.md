@@ -9,7 +9,7 @@ Because sometimes you want the device's orientation even if the orientation is l
 ## Installation
 
 1. Clone this repo
-2. Add a reference to the `fuse-orientation.unoproj` in your project's .unoproj file, e.g.
+2. Add a reference to the local `fuse-orientation.unoproj` in your project's .unoproj file, e.g.
 
 ```
 "Projects": [
